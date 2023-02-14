@@ -1,2 +1,2 @@
 #!/bin/bash
-awk '{ print $5 }' iacta.txt
+head -3 iacta
